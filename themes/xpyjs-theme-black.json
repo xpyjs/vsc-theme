@@ -410,8 +410,6 @@
 				"meta.object-literal.key",
 				"meta.object-literal.key.ts",
 				"meta.object-literal.key.js",
-				"support.type.property-name.json",
-				"support.type.property-name.json.comments",
 				"support.type.property-name.yaml",
 				"meta.structure.dictionary.key.python",
 				"meta.mapping.key",
@@ -422,6 +420,15 @@
 			],
 			"settings": {
 				"foreground": "#ccc"
+			}
+		},
+		{
+			"scope": [
+				"support.type.property-name.json",
+				"support.type.property-name.json.comments"
+			],
+			"settings": {
+				"foreground": "#c2ce55"
 			}
 		},
 		{
