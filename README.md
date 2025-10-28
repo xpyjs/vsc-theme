@@ -1,6 +1,32 @@
 # XpyJs Black
 
-XpyJs Black is a high-contrast dark theme designed around everyday JavaScript and TypeScript work. The palette favors quick scanning: parameters stay italic and mint-green wherever they appear, object keys are softly desaturated to avoid clashing with variables, and control keywords keep a warm accent so conditions and flow stand out even after long sessions.
+XpyJs Black is a pure black theme that reduces visual fatigue and highlights the workspace. In terms of code color, different color schemes are used as much as possible to distinguish different contents, enabling developers to quickly scan the required content. And the parameters have been optimized, highlighting the usage paths of the parameters for easy reference.
+
+## Screenshots
+
+<div align="center" style="font-size: 12px; color: #888;">TypeScript</div>
+
+![XpyJs Black Theme Screenshot](images/screenshot-ts.png)
+
+<div align="center" style="font-size: 12px; color: #888;">Vue</div>
+
+![XpyJs Black Theme Screenshot - Vue](images/screenshot-vue.png)
+
+<div align="center" style="font-size: 12px; color: #888;">React</div>
+
+![XpyJs Black Theme Screenshot - React](images/screenshot-react.png)
+
+<div align="center" style="font-size: 12px; color: #888;">Python</div>
+
+![XpyJs Black Theme Screenshot - Python](images/screenshot-python.png)
+
+<div align="center" style="font-size: 12px; color: #888;">Cpp</div>
+
+![XpyJs Black Theme Screenshot - Cpp](images/screenshot-cpp.png)
+
+<div align="center" style="font-size: 12px; color: #888;">CSharp</div>
+
+![XpyJs Black Theme Screenshot - CSharp](images/screenshot-csharp.png)
 
 ## Highlights
 
