@@ -2,8 +2,8 @@
   "name": "xpyjs-theme",
   "displayName": "XpyJs Black",
   "publisher": "xpyjs",
-  "description": "A high-contrast dark VS Code theme tailored for JavaScript and TypeScript workflows.",
-  "version": "0.0.2",
+  "description": "XpyJs Black is a pure black theme that reduces visual fatigue and highlights the workspace.",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.94.0"
   },
